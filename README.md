@@ -1,10 +1,11 @@
 # f1f_emergency-ai-moveover
 
-# Standalone
-
 ## Description
 
-This FiveM script improves NPC driver behavior when an emergency vehicle (police, ambulance, firetruck) with sirens enabled is nearby. NPC vehicles will automatically move to the curb (right or left) depending on which side you are overtaking them.
+This  FiveM script improves NPC driver behavior when an emergency vehicle (police, ambulance, firetruck) with sirens enabled is nearby. NPC vehicles will automatically move to the curb (right or left) depending on which side you are overtaking them.
+
+## Requirements
+- None, it is standalone
 
 ## Installation
 
@@ -15,6 +16,10 @@ This FiveM script improves NPC driver behavior when an emergency vehicle (police
 ## Warning
 
 **Editing this script may cause it to malfunction or behave unpredictably. Always back up the original file before making changes.**
+
+## Issues
+
+If you encounter any problems or unexpected behavior, please report them using the Issues section on GitHub.
 
 ## License
 
